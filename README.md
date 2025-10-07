@@ -1,6 +1,5 @@
 # Order ID - Power BI dashboard
-## Headline
-A dynamic, interactive data visualization tool built to explore order ID created focusing on locations and segment.
+## A dynamic, interactive data visualization tool built to explore order ID created focusing on locations and segment.
 
 ### Purpose
 The Order ID - Power BI Dashboard is a visually engaging and analytical Power BI report designed to help users explore and compare over 4,000 Order ID made across Europe.
